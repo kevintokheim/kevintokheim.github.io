@@ -6,8 +6,49 @@
   margin-bottom: 10%;
 }
 
+.intro-header .young-kevin-wrapper {
+  margin-top: 10%;
+}
+
 .header .img-wrapper {
   margin-top: 10%;
+  /*margin-top: 5%;*/
+}
+
+.header .texas-wrapper {
+  margin-top: 5%;
+}
+
+.header .web-dev-wrapper {
+  margin-top: 5%;
+}
+
+.header .bikes-wrapper {
+  margin-top: 5%;
+}
+
+.header .collision-wrapper {
+  margin-top: 5%;
+}
+
+.header .cat-wrapper {
+  margin-top: 5%;
+}
+
+.texas-page .footer {
+  margin-top: 5%;
+}
+
+.footer {
+  margin-top: 5%;
+}
+
+.intro-page .footer {
+  margin-top: 0;
+}
+
+.travel-header .travel-wrapper {
+  margin-top: 5%;
 }
 
 .header .img-wrapper .young-kevin {
