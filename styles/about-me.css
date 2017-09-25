@@ -1,0 +1,27 @@
+.header {
+  margin-top: 5%;
+}
+
+.intro-page .row {
+  margin-bottom: 10%;
+}
+
+.header .img-wrapper {
+  margin-top: 10%;
+}
+
+.header .img-wrapper .young-kevin {
+  transform: rotate(90deg);
+}
+
+.header .img-wrapper img {
+  max-width: 100%;
+}
+
+.footer {
+  width: 75%;
+}
+
+.intro-page .footer .front-page-button {
+
+}

@@ -1,0 +1,14 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "Quick About Me Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Kevin Tokheim",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
