@@ -18,6 +18,10 @@
   max-width: 100%;
 }
 
+.header .bikes-wrapper img {
+  padding-bottom: 5%;
+}
+
 .footer {
   width: 75%;
 }
